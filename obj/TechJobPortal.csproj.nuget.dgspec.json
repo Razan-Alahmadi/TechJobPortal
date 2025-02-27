@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\file\\Desktop\\TechJobPortal\\TechJobPortal\\TechJobPortal.csproj": {}
+    "D:\\file\\Desktop\\مجلد جديد (5)\\TechJobPortal\\TechJobPortal\\TechJobPortal.csproj": {}
   },
   "projects": {
-    "D:\\file\\Desktop\\TechJobPortal\\TechJobPortal\\TechJobPortal.csproj": {
+    "D:\\file\\Desktop\\مجلد جديد (5)\\TechJobPortal\\TechJobPortal\\TechJobPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\file\\Desktop\\TechJobPortal\\TechJobPortal\\TechJobPortal.csproj",
+        "projectUniqueName": "D:\\file\\Desktop\\مجلد جديد (5)\\TechJobPortal\\TechJobPortal\\TechJobPortal.csproj",
         "projectName": "TechJobPortal",
-        "projectPath": "D:\\file\\Desktop\\TechJobPortal\\TechJobPortal\\TechJobPortal.csproj",
+        "projectPath": "D:\\file\\Desktop\\مجلد جديد (5)\\TechJobPortal\\TechJobPortal\\TechJobPortal.csproj",
         "packagesPath": "C:\\Users\\RAZAN\\.nuget\\packages\\",
-        "outputPath": "D:\\file\\Desktop\\TechJobPortal\\TechJobPortal\\obj\\",
+        "outputPath": "D:\\file\\Desktop\\مجلد جديد (5)\\TechJobPortal\\TechJobPortal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
